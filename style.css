@@ -65,12 +65,26 @@ header{
 	border: 0;
 }
 
-#home-text{
+#home{
 	width: 1000px;
 	margin: 0 auto;
 	font-size: 18px;
 }
 
-#home-text p{
-	margin-left: 125px;
+#home #text{
+	float: left;
+	width: 600px;
+	margin: 100px 0;
+}
+
+#home #text p{
+	margin-bottom: 20px;
+}
+
+#cupcake{
+	float: right;
+}
+
+#cupcake img{
+	width: 300px;
 }
