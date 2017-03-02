@@ -1,0 +1,66 @@
+body{
+	background-color: powderblue;
+	margin: 0 0;
+}
+
+#barra{
+	text-align: center;
+	background-color: white;
+	padding: 10px 0;
+}
+
+#barra ul{
+	list-style: none;
+	margin: 0 0;
+	padding: 0 0;
+}
+
+#barra ul li{
+	display: inline-block;
+	margin: 0 100px;
+}
+
+#barra ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+#contato ul li a{
+	text-decoration: none;
+	color: #597692;
+}
+
+header{
+	background: url(background.jpg) repeat-x;
+}
+
+#contato{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#imagens img{
+	width: 300px;
+	height: 300px;
+}
+
+#imagens{
+	width: 1000px;
+	margin: 20px auto;
+}
+
+#imagens td{
+	padding: 5px 10px;
+}
+
+#video{
+	visibility: hidden;
+	display: none;
+}
+
+#iframeContent{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	border: 0;
+}
